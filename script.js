@@ -72,3 +72,4 @@ function copied() {
     document.execCommand("copy");
     alert("The password has been copied to your clipboard!");
 }
+document.getElementById("generate").addEventListener("click", generate);
