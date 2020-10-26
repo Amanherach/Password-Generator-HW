@@ -22,9 +22,6 @@ Your application should be deployed to GitHub Pages.
 Your application's GitHub repository should contain a README.md file explaining the purpose and functionality of the application. The README.md file should include a screenshot of the completed application as well as a link to the deployed GitHub Pages URL.
 https://vanderbilt.bootcampcontent.com/vanderbilt_coding_bootcamp/VU-NSH-FSF-PT-10-2019-U-C/raw/master/03-JavaScript/02-Homework/Assets/03-JavaScript-homework-demo.png
 
-## Visuals:
-![alt text](C:\Users\User\Desktop\passwordgenerator.png)
-
 
 ## Installation: 
 This application is running through any web browser. It is specificially made for running on computer browser. It has not been scaling for mobile using. 
